@@ -1,7 +1,9 @@
 # NeutronStarDAO
 
-This is a blog platform made in the form of dao:.
+This is a blog platform made in the form of dao:
+
 Built on IC.
+
 People can log in, comment, message, comment as ii, which is equivalent to discussing in a forum, and open the page directly to write markdown articles and publish them.
 
 When publishing, you can choose to make an NFT of each article published and publish it, and later you can sell this NFT (sell the article).
@@ -19,4 +21,5 @@ People can publish their own ideas, notes, thoughts: for example, a popular arti
 
 I think this idea is because web3 decentralized well, something to the user, to the user is to the user, but others do not know, want to let others know or have to make NFT, and then published.
 It's a bit like applying for a copyright or a patent for an invention.
+
 Selling NFT = Selling patents. 
