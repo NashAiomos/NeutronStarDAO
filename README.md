@@ -1,5 +1,5 @@
 # NeutronStarBlog social platform.
-### The open source web3.0 social platform on IC!
+### The web3.0 social platform on IC!
 ## Basic functions.
 People can log in, comment, message, comment, favorite articles with ii identity, write markdown articles, and then publish them. Pictures and videos can be added to the article.
 
