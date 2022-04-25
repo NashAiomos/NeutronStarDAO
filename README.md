@@ -1,7 +1,7 @@
 # NeutronStarBlog social platform.
 ### The open source web3.0 social platform on IC!
 ## Basic functions.
-People can log in, comment, message, comment, favorite articles with ii identity, write markdown articles, and then publish them.
+People can log in, comment, message, comment, favorite articles with ii identity, write markdown articles, and then publish them. Pictures and videos can be added to the article.
 
 ## Posting articles.
 When posting an article, you can choose to post it as an NFT, and later you can sell this NFT (sell articles). It is up to the author to decide whether to post a normal article or an NFT article. Ordinary articles cannot be sold. Under the article there is a point like, reward, comment, collection function.
