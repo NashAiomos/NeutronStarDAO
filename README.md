@@ -35,6 +35,9 @@ You can deploy a small smart contract without writing any code. Code free progra
 ## Community NFT Badge:
 Achieve achievements to get your own exclusive badge: first published article, first comment, article read more than 5000...
 
+## Front-end and back-end independent：
+The blog is divided into a front-end page system and a back-end Canister system. User articles are stored in their own Canister. When any front-end page accesses user data, the user must authorize which Canister can access and which cannot be accessed.
+
 ---
 
 I think these articles made into NFT are the crystallization of human wisdom, these good articles are like books, is valuable, books have copyright protection, in the web3 world, NFT can give articles copyright more imaginative. Various good blogs are the essence, the essence should be collected, the essence is rare.
