@@ -1,7 +1,7 @@
 # NeutronStarBlog 社交平台：
 ### 在 IC 上开源的 web3.0 社交平台！
 
-分布式协作：为NeutronStarDAO贡献代码可以获得token奖励，具体内容请浏览<a href="https://github.com/NeutronStar-PRO/NeutronStarDAO/blob/main/DistributedCollaborativeContribution-zh.md">这里</a>。
+分布式协作：为NeutronStarDAO贡献代码可以获得token奖励，具体<a href="https://github.com/users/NeutronStarPRO/projects/3">内容</a>请浏览<a href="https://github.com/NeutronStar-PRO/NeutronStarDAO/blob/main/DistributedCollaborativeContribution-zh.md">这里</a>。
 
 ## 基本功能：
 人们可以用ii身份登录、评论、留言、评论、收藏文章，写markdown文章，然后发表。
