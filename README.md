@@ -32,6 +32,9 @@ Add later ......
 ## Allow authors to create smart contracts:
 You can deploy a small smart contract without writing any code. Code free programming is also used.
 
+## Community NFT Badge:
+Achieve achievements to get your own exclusive badge: first published article, first comment, article read more than 5000...
+
 ---
 
 I think these articles made into NFT are the crystallization of human wisdom, these good articles are like books, is valuable, books have copyright protection, in the web3 world, NFT can give articles copyright more imaginative. Various good blogs are the essence, the essence should be collected, the essence is rare.
