@@ -28,7 +28,7 @@ Authors can only decide to sell their NFT articles, or not, but the price of NFT
 The blog is divided into a front-end page system and a back-end jar system.
 User articles are stored in their own  canisters, and any front-end page access to user data requires user authorization of which  canisters can and cannot be accessed.
 Each user has a  canister of their own for storing their own articles, NFT, address of favorite articles, comments to others' articles.
-
+![](https://github.com/NeutronStarPRO/NeutronStarDAO/blob/main/img/img-readme1.png)
 Articles written by yourself can be used as your own personal blog, or you can choose to push your articles to the community's BlogSteam so that more people can see them. Comments from others will also be returned to the article.
 The community's BlogSteam interface is open, which means not only the front-end of NeutronStarDAO can connect, but also other types of platforms can push their own articles to the community, and it is also possible to complete user interaction and connect data through this set of open interfaces.
 
