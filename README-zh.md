@@ -4,7 +4,7 @@
 分布式协作：为 NeutronStarDAO 贡献代码可以获得 token 奖励，具体<a href="https://github.com/users/NeutronStarPRO/projects/3">内容</a>请浏览<a href="https://github.com/NeutronStar-PRO/NeutronStarDAO/blob/main/DistributedCollaborativeContribution-zh.md">这里</a>。
 
 ## 基本功能：
-人们可以用 ii 身份登录、评论、留言、评论、收藏文章，写 markdown 文章，然后发表。
+人们可以用 ii 身份登录、评论、留言、收藏文章，写 markdown 文章，然后发表。
 
 ## 发布文章：
 发布文章时可以选择把文章做成NFT发布，以后还能卖掉这个 NFT（卖文章）。
