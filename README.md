@@ -1,4 +1,4 @@
-# NeutronStarBlog social platform.
+# NeutronStar Blog social platform.
 ### Open source web3.0 social platform on IC!
 Distributed collaboration: you can get token rewards for contributing code to neutronstardao. Please visit <a href="https://github.com/users/NeutronStarPRO/projects/3">here</a> for <a href="https://github.com/NeutronStarPRO/NeutronStarDAO/blob/main/DistributedCollaborativeContribution.md">details</a>.
 ## Basic functions.
